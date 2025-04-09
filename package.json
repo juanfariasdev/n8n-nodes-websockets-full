@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-websockets-lite-a",
+  "name": "n8n-nodes-websockets-full",
   "version": "0.5.5",
   "description": "websocket trigger event",
   "keywords": [
@@ -8,12 +8,12 @@
   "license": "MIT",
   "homepage": "",
   "author": {
-    "name": "",
-    "email": ""
+    "name": "Juan Pablo Farias",
+    "email": "juanpablo.profissional.a.f@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tienanhemho/n8n-nodes-websockets-lite-a"
+    "url": "https://github.com/juanfariasdev/n8n-nodes-websockets-full"
   },
   "engines": {
     "node": ">=18.10",
